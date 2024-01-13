@@ -4,6 +4,6 @@ This dashboard consists of multiple KPI's like Current Year Month To Date of Ord
 In dashboard, to display organised variations and trends different type of charts have been used that shows, number of reward member we have and don't have, information about orders by city where we can look at the highest and lowest orders are in which city and the information by the state. Finally, a table to show top 5 transactions of the state.
 This dashboard will help to get the insights of sales and also get an idea of how to improve and where to improve.
 
-The dataset in file Retail Transactions.csv contains Order data of all the companies in different region.
+The dataset in file Retail Transactions.csv contains Order data of company placed in different state and city along with the order amount, discount amount and transaction date.
 
 Expected Deliverables: Design a sales dashbaord that analyses the Order placed by the company to different region on MTD, YTD and Previous year basis. A filter was required based on State, so that users can select a category and see the trend. 
